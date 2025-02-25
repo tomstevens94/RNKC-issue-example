@@ -55,7 +55,7 @@ const Stack = createNativeStackNavigator();
 
 function App(): React.JSX.Element {
   return (
-    <KeyboardProvider statusBarTranslucent>
+    <KeyboardProvider>
       <NavigationContainer>
         <Stack.Navigator>
           <Stack.Screen name="screen1" component={Screen1} />
