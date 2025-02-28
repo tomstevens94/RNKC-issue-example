@@ -5587,17 +5587,10 @@ react-is@^19.0.0:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-19.0.0.tgz#d6669fd389ff022a9684f708cf6fa4962d1fea7a"
   integrity sha512-H91OHcwjZsbq3ClIDHMzBShc1rotbfACdWENsmEf0IFvZ3FgGPtdHMcsv45bQ1hAbgdfiA8SnxTKfDS+x/8m2g==
 
-react-native-is-edge-to-edge@1.1.6, react-native-is-edge-to-edge@^1.1.6:
+react-native-is-edge-to-edge@1.1.6:
   version "1.1.6"
   resolved "https://registry.yarnpkg.com/react-native-is-edge-to-edge/-/react-native-is-edge-to-edge-1.1.6.tgz#69ec13f70d76e9245e275eed4140d0873a78f902"
   integrity sha512-1pHnFTlBahins6UAajXUqeCOHew9l9C2C8tErnpGC3IyLJzvxD+TpYAixnCbrVS52f7+NvMttbiSI290XfwN0w==
-
-react-native-keyboard-controller@^1.16.5:
-  version "1.16.5"
-  resolved "https://registry.yarnpkg.com/react-native-keyboard-controller/-/react-native-keyboard-controller-1.16.5.tgz#b8ff30d1c171a49b033843479e578c211c04ee88"
-  integrity sha512-YYiw6lETHIi+66z+n6Q1GeL9hrrlvniFuGTnWDUaTnMq4dOQAeBcbdSXLp371nbrWlrgkb+2HC84xihtRqrwzA==
-  dependencies:
-    react-native-is-edge-to-edge "^1.1.6"
 
 react-native-reanimated@^3.17.0:
   version "3.17.0"
